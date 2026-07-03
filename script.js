@@ -491,6 +491,50 @@ const defaultPackages = [
         "Water Bottle",
         "Plates"
      ]
+},
+    {
+    category:"tiffin",
+    name:"Tiffins Menu 1",
+    price:"₹85 / Person",
+    items:[
+        "Pongal / Kichidi",
+        "Uddi Wada",
+        "Sambar",
+        "Chutney",
+        "Water Bottle",
+        "Plates"
+    ]
+},
+
+{
+    category:"tiffin",
+    name:"Tiffins Menu 2",
+    price:"₹90 / Person",
+    items:[
+        "Idly - 1",
+        "Pongal / Kichidi",
+        "Sambar",
+        "Chutney",
+        "Karam Chutney",
+        "Water Bottle",
+        "Plates"
+    ]
+},
+
+{
+    category:"tiffin",
+    name:"Tiffins Menu 3",
+    price:"₹100 / Person",
+    items:[
+        "Idly - 2",
+        "Pongal / Kichidi",
+        "Uddi Wada - 1",
+        "Sambar",
+        "Chutney",
+        "Karam Chutney",
+        "Water Bottle",
+        "Plates"
+    ]
 }
     
     ];
