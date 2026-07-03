@@ -502,40 +502,44 @@ const defaultPackages = [
 
 const packages = defaultPackages;
 
-const container =
-document.getElementById("packageContainer");
+const container = document.getElementById("packageContainer");
 
-if(container){
+function showPackages(category){
 
-container.innerHTML="";
+    if(!container) return;
 
-packages.forEach(pkg=>{
+    container.innerHTML = "";
 
-container.innerHTML += `
+    const filtered =
+        category === "all"
+        ? packages
+        : packages.filter(pkg => pkg.category === category);
 
-<div class="card">
+    filtered.forEach(pkg => {
 
-<h3>${pkg.name}</h3>
+        container.innerHTML += `
 
-<h4>${pkg.price}</h4>
+        <div class="card">
 
-<ul>
+            <h3>${pkg.name}</h3>
 
-${pkg.items.map(item=>`<li>${item}</li>`).join("")}
+            <h4>${pkg.price}</h4>
 
-</ul>
+            <ul>
+                ${pkg.items.map(item => `<li>${item}</li>`).join("")}
+            </ul>
 
-<a class="btn"
-href="https://wa.me/917981027201?text=I want ${encodeURIComponent(pkg.name)}">
+            <a class="btn"
+            href="https://wa.me/917981027201?text=I want ${encodeURIComponent(pkg.name)}">
+            Book Now
+            </a>
 
-Book Now
+        </div>
 
-</a>
+        `;
 
-</div>
-
-`;
-
-});
+    });
 
 }
+
+showPackages("all");
