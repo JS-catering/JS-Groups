@@ -497,7 +497,7 @@ const defaultPackages = [
     name:"Tiffins Menu 1",
     price:"₹85 / Person",
     items:[
-        "Pongal / Kichidi",
+        "Ghee Pongal / Kichidi",
         "Uddi Wada",
         "Sambar",
         "Chutney",
@@ -511,8 +511,8 @@ const defaultPackages = [
     name:"Tiffins Menu 2",
     price:"₹90 / Person",
     items:[
-        "Idly - 1",
-        "Pongal / Kichidi",
+        "Idly - 2",
+        "Ghee Pongal / Kichidi",
         "Sambar",
         "Chutney",
         "Karam Chutney",
@@ -527,7 +527,7 @@ const defaultPackages = [
     price:"₹100 / Person",
     items:[
         "Idly - 2",
-        "Pongal / Kichidi",
+        "Ghee Pongal / Kichidi",
         "Uddi Wada - 1",
         "Sambar",
         "Chutney",
