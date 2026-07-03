@@ -10,6 +10,7 @@ JSON.parse(localStorage.getItem("packages")) || [];
 const defaultPackages = [
 
     {
+        category:"veg",
         name:"Veg Menu 1",
         price:"₹120 / Person",
         items:[
@@ -26,6 +27,7 @@ const defaultPackages = [
         ]
     },
     {
+        category:"veg",
         name:"Veg Menu 2",
         price:"₹150 / Person",
         items:[
@@ -39,6 +41,7 @@ const defaultPackages = [
         ]
     },
     {
+        category:"veg",
         name:"Veg Menu 3",
         price:"₹160 / Person",
         items:[
@@ -56,6 +59,7 @@ const defaultPackages = [
         ]
     },
     {
+        category:"veg",
         name:"Veg Menu 4",
         price:"₹180 / Person",
         items:[
@@ -77,6 +81,7 @@ const defaultPackages = [
         ]
     },
     {
+        category:"veg",
         name:"Veg Menu 5",
         price:"₹149 / Person",
         items:[
@@ -97,6 +102,7 @@ const defaultPackages = [
         ]
     },
     {
+        category:"veg",
         name:"Veg Menu 6",
         price:"₹190 / Person",
         items:[
@@ -120,6 +126,7 @@ const defaultPackages = [
         ]
     },
     {
+        category:"veg",
         name:"Veg Menu 7",
         price:"₹195 / Person",
         items:[
@@ -143,6 +150,7 @@ const defaultPackages = [
         ]
     },
     {
+        category:"veg",
         name:"Veg Menu 8",
         price:"₹205 / Person",
         items:[
@@ -166,6 +174,7 @@ const defaultPackages = [
         ]
     },
 {
+    category:"veg",
     name:"Veg Menu 9",
     price:"₹209 / Person",
     items:[
@@ -189,6 +198,7 @@ const defaultPackages = [
     ]
 },
 {
+    category:"veg",
     name:"Veg Menu 10",
     price:"₹210 / Person",
     items:[
@@ -212,6 +222,7 @@ const defaultPackages = [
     ]
 },
 {
+    category:"veg",
     name:"Veg Menu 11",
     price:"₹205 / Person",
     items:[
@@ -235,6 +246,7 @@ const defaultPackages = [
     ]
 },
 {
+    category:"veg",
     name:"Veg Menu 12",
     price:"₹240 / Person",
     items:[
@@ -259,6 +271,7 @@ const defaultPackages = [
     ]
 },
 {
+    category:"veg",
     name:"Veg Menu 13",
     price:"₹245 / Person",
     items:[
@@ -285,6 +298,7 @@ const defaultPackages = [
     ]
 },
 {
+    category:"veg",
     name:"Veg Menu 14",
     price:"₹221 / Person",
     items:[
@@ -311,6 +325,7 @@ const defaultPackages = [
     ]
 },
 {
+    category:"veg",
     name:"Veg Menu 15",
     price:"₹225 / Person",
     items:[
@@ -337,6 +352,7 @@ const defaultPackages = [
     ]
 },
 {
+    category:"veg",
     name:"Veg Menu 16",
     price:"₹255 / Person",
     items:[
@@ -364,6 +380,7 @@ const defaultPackages = [
     ]
 },
 {
+    category:"veg",
     name:"Veg Menu 17",
     price:"₹225 / Person",
     items:[
@@ -390,6 +407,7 @@ const defaultPackages = [
     ]
 },
 {
+    category:"veg",
     name:"Veg Menu 18",
     price:"₹256 / Person",
     items:[
@@ -417,6 +435,7 @@ const defaultPackages = [
     ]
 },
 {
+    category:"veg",
     name:"Veg Menu 19",
     price:"₹330 / Person",
     items:[
@@ -450,6 +469,7 @@ const defaultPackages = [
     ]
 },
 {
+    category:"veg",
     name:"Veg Menu 20",
     price:"₹415 / Person",
     items:[
