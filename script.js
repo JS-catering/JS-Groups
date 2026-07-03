@@ -1,6 +1,7 @@
 // =============================
 // Jithus Catering Website
 // =============================
+
 localStorage.removeItem("packages");
 
 const defaultPackages = [
