@@ -535,6 +535,119 @@ const defaultPackages = [
         "Water Bottle",
         "Plates"
     ]
+},
+{
+    category:"tiffin",
+    name:"Tiffins Menu 4",
+    price:"₹110 / Person",
+    items:[
+        "Idly - 2",
+        "Ghee Pongal / Kichidi",
+        "Uddi Wada - 1",
+        "Fruit Kesari",
+        "Sambar",
+        "Chutney",
+        "Karam Chutney",
+        "Water Bottle",
+        "Plates"
+    ]
+},
+
+{
+    category:"tiffin",
+    name:"Tiffins Menu 5",
+    price:"₹121 / Person",
+    items:[
+        "Idly - 2",
+        "Ghee Pongal / Kichidi",
+        "Uddi Wada - 1",
+        "Bread Halwa",
+        "Sambar",
+        "Chutney",
+        "Karam Chutney",
+        "Water Bottle",
+        "Plates"
+    ]
+},
+
+{
+    category:"tiffin",
+    name:"Tiffins Menu 6",
+    price:"₹130 / Person",
+    items:[
+        "Idly - 2",
+        "Ghee Pongal / Kichidi",
+        "Uddi Wada - 1",
+        "Poori - 2",
+        "Aloo Masala / Vada Curry",
+        "Fruit Kesari",
+        "Sambar",
+        "Chutney",
+        "Karam Chutney",
+        "Coffee / Tea",
+        "Water Bottle",
+        "Plates"
+    ]
+},
+
+{
+    category:"tiffin",
+    name:"Tiffins Menu 7",
+    price:"₹155 / Person",
+    items:[
+        "Idly - 1",
+        "Ghee Pongal / Kichidi",
+        "Uddi Wada - 1",
+        "Poori - 3",
+        "Aloo Masala / Vada Curry",
+        "Uthappam - 1",
+        "Fruit Kesari",
+        "Sambar",
+        "Chutney",
+        "Karam Chutney",
+        "Coffee / Tea",
+        "Water Bottle",
+        "Plates"
+    ]
+},
+
+{
+    category:"tiffin",
+    name:"Tiffins Menu 8",
+    price:"₹135 / Person",
+    items:[
+        "Idly - 2",
+        "Ghee Pongal / Kichidi",
+        "Uddi Wada - 1",
+        "Uthappam - 2",
+        "Fruit Kesari",
+        "Sambar",
+        "Chutney",
+        "Karam Chutney",
+        "Coffee / Tea",
+        "Water Bottle",
+        "Plates"
+    ]
+},
+
+{
+    category:"tiffin",
+    name:"Tiffins Menu 9",
+    price:"₹145 / Person",
+    items:[
+        "Idly - 2",
+        "Ghee Pongal / Kichidi",
+        "Uddi Wada - 2",
+        "Poori - 2",
+        "Aloo Masala",
+        "Fruit Kesari",
+        "Coffee / Tea",
+        "Sambar",
+        "Chutney",
+        "Karam Chutney",
+        "Water Bottle",
+        "Plates"
+    ]
 }
     
     ];
