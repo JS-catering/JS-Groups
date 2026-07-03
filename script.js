@@ -93,8 +93,7 @@ ${pkg.items.map(item=>`<li>${item}</li>`).join("")}
 </ul>
 
 <a class="btn"
-
-href="https://wa.me/919160144323?text=I want ${pkg.name}">
+href="https://wa.me/917981027201?text=I want ${encodeURIComponent(pkg.name)}">
 
 Book Now
 
