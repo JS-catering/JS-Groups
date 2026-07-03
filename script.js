@@ -482,9 +482,7 @@ const defaultPackages = [
         JSON.stringify(defaultPackages)
     );
 
-
-const packages =
-JSON.parse(localStorage.getItem("packages")) || [];
+const packages = defaultPackages;
 
 const container =
 document.getElementById("packageContainer");
