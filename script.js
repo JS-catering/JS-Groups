@@ -1,12 +1,7 @@
 // =============================
 // Jithus Catering Website
 // =============================
-
-// Default Packages (first time only)
-
 localStorage.removeItem("packages");
-
-if (!localStorage.getItem("packages")) {
 
 const defaultPackages = [
 
@@ -165,9 +160,7 @@ const defaultPackages = [
             "Water Bottle",
             "Plates"
         ]
-    }
-
-],
+    },
 {
     name:"Veg Menu 9",
     price:"₹209 / Person",
@@ -478,8 +471,9 @@ const defaultPackages = [
         "Badam Kheer",
         "Water Bottle",
         "Plates"
-    ]
-};
+     ]
+}
+    
     ];
 
     localStorage.setItem(
