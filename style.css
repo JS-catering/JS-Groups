@@ -422,3 +422,27 @@ background:#14532d;
 background:#0b3d1d;
 
 }
+/* Filter Buttons */
+
+.filter-buttons{
+    display:flex;
+    justify-content:center;
+    gap:15px;
+    margin-bottom:30px;
+    flex-wrap:wrap;
+}
+
+.filter-buttons button{
+    padding:12px 25px;
+    border:none;
+    border-radius:30px;
+    background:#14532d;
+    color:white;
+    font-size:16px;
+    cursor:pointer;
+    transition:.3s;
+}
+
+.filter-buttons button:hover{
+    background:#ff9800;
+}
