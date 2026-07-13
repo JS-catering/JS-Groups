@@ -7,10 +7,9 @@ const defaultPackages = [
     {
         category:"veg",
         name:"Veg Menu 1",
-        price:"₹120 / Person",
+        price:"₹130 / Person",
         items:[
             "White Rice",
-            "Pappu",
             "Sambar",
             "Rasam",
             "Curd",
@@ -27,10 +26,14 @@ const defaultPackages = [
         price:"₹150 / Person",
         items:[
             "Vegetable Biryani",
-            "Nunevankaya",
             "Onion Raitha",
+            "White Rice",
+            "Sambar",
+            "Rasam",
+            "Curd",
+            "Pickle",
+            "Papad",
             "1 Curry",
-            "Banana",
             "Water Bottle",
             "Plates"
         ]
@@ -40,6 +43,8 @@ const defaultPackages = [
         name:"Veg Menu 3",
         price:"₹160 / Person",
         items:[
+            "Vegetable Biryani",
+            "Onion Raitha",
             "White Rice",
             "Pappu",
             "Sambar",
@@ -58,8 +63,8 @@ const defaultPackages = [
         name:"Veg Menu 4",
         price:"₹180 / Person",
         items:[
-            "Mushroom Biryani",
-            "Kurma / Nunevankaya",
+            "Mushroom Biryani / Vegetable Biryani",
+            "Nunevankaya",
             "Onion Raitha",
             "1 Curry",
             "White Rice",
@@ -78,11 +83,9 @@ const defaultPackages = [
     {
         category:"veg",
         name:"Veg Menu 5",
-        price:"₹149 / Person",
+        price:"₹160 / Person",
         items:[
             "Karivepaku Rice / Kothimeera Rice / Pudhina Rice / Pulihora / Coconut Rice (Any One)",
-            "Kurma",
-            "Onion Raitha",
             "White Rice",
             "Pappu",
             "Sambar",
@@ -101,8 +104,8 @@ const defaultPackages = [
         name:"Veg Menu 6",
         price:"₹190 / Person",
         items:[
-            "Vegetable Biryani",
-            "Kurma / Nunevankaya",
+            "Mushroom Biryani / Vegetable Biryani",
+            "Nunevankaya",
             "Onion Raitha",
             "1 Curry",
             "Oil Fry",
@@ -123,10 +126,10 @@ const defaultPackages = [
     {
         category:"veg",
         name:"Veg Menu 7",
-        price:"₹195 / Person",
+        price:"₹200 / Person",
         items:[
-            "Vegetable Biryani",
-            "Kurma / Nunevankaya",
+            "Mushroom Biryani / Vegetable Biryani",
+            "Nunevankaya",
             "Onion Raitha",
             "1 Curry",
             "Oil Fry",
@@ -149,8 +152,8 @@ const defaultPackages = [
         name:"Veg Menu 8",
         price:"₹205 / Person",
         items:[
-            "Vegetable Biryani",
-            "Kurma / Nunevankaya",
+            "Mushroom Biryani / Vegetable Biryani",
+            "Nunevankaya",
             "Onion Raitha",
             "1 Curry",
             "Oil Fry",
@@ -173,8 +176,8 @@ const defaultPackages = [
     name:"Veg Menu 9",
     price:"₹209 / Person",
     items:[
-        "Vegetable Biryani",
-        "Kurma / Nunevankaya",
+        "Mushroom Biryani / Vegetable Biryani",
+        "Nunevankaya",
         "Onion Raitha",
         "1 Curry",
         "Oil Fry",
@@ -197,8 +200,8 @@ const defaultPackages = [
     name:"Veg Menu 10",
     price:"₹210 / Person",
     items:[
-        "Mushroom Biryani",
-        "Kurma / Nunevankaya",
+        "Mushroom Biryani / Vegetable Biryani",
+        "Nunevankaya",
         "Onion Raitha",
         "1 Curry",
         "Oil Fry",
@@ -221,8 +224,8 @@ const defaultPackages = [
     name:"Veg Menu 11",
     price:"₹205 / Person",
     items:[
-        "Mushroom Biryani",
-        "Kurma / Nunevankaya",
+        "Mushroom Biryani / Vegetable Biryani",
+        "Nunevankaya",
         "Onion Raitha",
         "1 Curry",
         "Oil Fry",
@@ -245,8 +248,8 @@ const defaultPackages = [
     name:"Veg Menu 12",
     price:"₹240 / Person",
     items:[
-        "Mushroom Biryani",
-        "Chapathi",
+        "Mushroom Biryani / Vegetable Biryani",
+        "2 Chapathi",
         "Kurma",
         "Onion Raitha",
         "1 Curry",
@@ -274,7 +277,7 @@ const defaultPackages = [
         "Chapathi",
         "Kurma",
         "Onion Raitha",
-        "1 Curry",
+        "2 Curry",
         "Oil Fry",
         "Masala Wada",
         "Sweet (Kova Jangri / Dry Jamun / Kova Cake / Milk Cake / Chandrakala / Poli)",
