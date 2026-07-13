@@ -25,7 +25,7 @@ const defaultPackages = [
         name:"Veg Menu 2",
         price:"₹150 / Person",
         items:[
-            "Vegetable Biryani",
+            "Mushroom Biryani / Vegetable Biryani",
             "Onion Raitha",
             "White Rice",
             "Sambar",
@@ -43,7 +43,7 @@ const defaultPackages = [
         name:"Veg Menu 3",
         price:"₹160 / Person",
         items:[
-            "Vegetable Biryani",
+            "Mushroom Biryani / Vegetable Biryani",
             "Onion Raitha",
             "White Rice",
             "Pappu",
