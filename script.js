@@ -25,7 +25,7 @@ const defaultPackages = [
         name:"Veg Menu 2",
         price:"₹150 / Person",
         items:[
-            "Mushroom Biryani / Vegetable Biryani",
+            "Vegetable Biryani",
             "Onion Raitha",
             "White Rice",
             "Sambar",
@@ -43,7 +43,7 @@ const defaultPackages = [
         name:"Veg Menu 3",
         price:"₹160 / Person",
         items:[
-            "Mushroom Biryani / Vegetable Biryani",
+            "Vegetable Biryani",
             "Onion Raitha",
             "White Rice",
             "Pappu",
@@ -63,7 +63,7 @@ const defaultPackages = [
         name:"Veg Menu 4",
         price:"₹180 / Person",
         items:[
-            "Mushroom Biryani / Vegetable Biryani",
+            "Mushroom Biryani",
             "Nunevankaya",
             "Onion Raitha",
             "1 Curry",
@@ -143,6 +143,8 @@ const defaultPackages = [
             "Pickle",
             "Papad",
             "Banana",
+            "Beeda",
+            "Ice Cream",
             "Water Bottle",
             "Plates"
         ]
@@ -167,6 +169,8 @@ const defaultPackages = [
             "Pickle",
             "Papad",
             "Banana",
+            "Beeda",
+            "Ice Cream",
             "Water Bottle",
             "Plates"
         ]
@@ -191,6 +195,8 @@ const defaultPackages = [
         "Pickle",
         "Papad",
         "Banana",
+        "Beeda",
+        "Ice Cream",
         "Water Bottle",
         "Plates"
     ]
@@ -215,6 +221,8 @@ const defaultPackages = [
         "Pickle",
         "Papad",
         "Banana",
+        "Beeda",
+        "Ice Cream",
         "Water Bottle",
         "Plates"
     ]
@@ -239,6 +247,8 @@ const defaultPackages = [
         "Pickle",
         "Papad",
         "Banana",
+        "Beeda",
+        "Ice Cream",
         "Water Bottle",
         "Plates"
     ]
@@ -263,6 +273,8 @@ const defaultPackages = [
         "Curd",
         "Pickle",
         "Papad",
+        "Beeda",
+        "Ice Cream",
         "Banana",
         "Water Bottle",
         "Plates"
@@ -298,7 +310,7 @@ const defaultPackages = [
 {
     category:"veg",
     name:"Veg Menu 14",
-    price:"₹221 / Person",
+    price:"₹220 / Person",
     items:[
         "Vegetable Biryani",
         "Chapathi / Poori",
