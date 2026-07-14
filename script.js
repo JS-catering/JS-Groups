@@ -701,6 +701,10 @@ function showPackages(category){
                 ${pkg.items.map(item => `<li>${item}</li>`).join("")}
             </ul>
 
+            <p class="package-note">
+                 📝 <strong>Note:</strong> The listed prices are indicative. Final pricing is negotiable based on the number of guests, menu customization, and event requirements.
+            </p>
+
             <a class="btn"
             href="https://wa.me/917981027201?text=I want ${encodeURIComponent(pkg.name)}">
             Book Now
