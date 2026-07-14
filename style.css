@@ -204,6 +204,24 @@ margin-bottom:20px;
 margin-bottom:8px;
 
 }
+/* Package Note */
+.package-note{
+
+margin:15px 0;
+
+padding-left:10px;
+
+border-left:3px solid #f59e0b;
+
+font-size:13px;
+
+color:#666;
+
+line-height:1.5;
+
+font-style:italic;
+
+}
 
 /* Gallery */
 
