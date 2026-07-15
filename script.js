@@ -134,7 +134,7 @@ const defaultPackages = [
             "1 Curry",
             "Oil Fry",
             "Masala Wada",
-            "Sweet (Kova Jangri / Dry Jamun / Kova Cake / Milk Cake / Chandrakala / Poli)",
+            "Sweet (Kova Cake / Milk Cake / Chandrakala / Poli)",
             "White Rice",
             "Pappu",
             "Sambar",
@@ -160,7 +160,7 @@ const defaultPackages = [
             "1 Curry",
             "Oil Fry",
             "Masala Wada",
-            "Sweet (Jangri / Laddu / Mysore Pak / Badusha)",
+            "Sweet (Kova Jangri / Dry Jamun / Jangri / Laddu / Mysore Pak / Badusha)",
             "White Rice",
             "Pappu",
             "Sambar",
@@ -178,7 +178,7 @@ const defaultPackages = [
 {
     category:"veg",
     name:"Veg Menu 9",
-    price:"₹210 / Person",
+    price:"₹220 / Person",
     items:[
         "Mushroom Biryani / Vegetable Biryani",
         "Chapathi",
