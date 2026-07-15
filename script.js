@@ -178,10 +178,11 @@ const defaultPackages = [
 {
     category:"veg",
     name:"Veg Menu 9",
-    price:"₹209 / Person",
+    price:"₹210 / Person",
     items:[
         "Mushroom Biryani / Vegetable Biryani",
-        "Nunevankaya",
+        "Chapathi",
+        "Kurma",
         "Onion Raitha",
         "1 Curry",
         "Oil Fry",
@@ -204,32 +205,6 @@ const defaultPackages = [
 {
     category:"veg",
     name:"Veg Menu 10",
-    price:"₹210 / Person",
-    items:[
-        "Mushroom Biryani / Vegetable Biryani",
-        "Nunevankaya",
-        "Onion Raitha",
-        "1 Curry",
-        "Oil Fry",
-        "Masala Wada",
-        "Sweet (Jangri / Laddu / Mysore Pak / Badusha)",
-        "White Rice",
-        "Pappu",
-        "Sambar",
-        "Rasam",
-        "Curd",
-        "Pickle",
-        "Papad",
-        "Banana",
-        "Beeda",
-        "Ice Cream",
-        "Water Bottle",
-        "Plates"
-    ]
-},
-{
-    category:"veg",
-    name:"Veg Menu 11",
     price:"₹205 / Person",
     items:[
         "Mushroom Biryani / Vegetable Biryani",
@@ -255,7 +230,7 @@ const defaultPackages = [
 },
 {
     category:"veg",
-    name:"Veg Menu 12",
+    name:"Veg Menu 11",
     price:"₹240 / Person",
     items:[
         "Mushroom Biryani / Vegetable Biryani",
@@ -282,7 +257,7 @@ const defaultPackages = [
 },
 {
     category:"veg",
-    name:"Veg Menu 13",
+    name:"Veg Menu 12",
     price:"₹245 / Person",
     items:[
         "Mushroom Biryani",
@@ -309,7 +284,7 @@ const defaultPackages = [
 },
 {
     category:"veg",
-    name:"Veg Menu 14",
+    name:"Veg Menu 13",
     price:"₹220 / Person",
     items:[
         "Vegetable Biryani",
@@ -336,7 +311,7 @@ const defaultPackages = [
 },
 {
     category:"veg",
-    name:"Veg Menu 15",
+    name:"Veg Menu 14",
     price:"₹225 / Person",
     items:[
         "Vegetable Biryani",
@@ -363,7 +338,7 @@ const defaultPackages = [
 },
 {
     category:"veg",
-    name:"Veg Menu 16",
+    name:"Veg Menu 15",
     price:"₹255 / Person",
     items:[
         "Vegetable Biryani",
@@ -391,7 +366,7 @@ const defaultPackages = [
 },
 {
     category:"veg",
-    name:"Veg Menu 17",
+    name:"Veg Menu 16",
     price:"₹225 / Person",
     items:[
         "Paneer Biryani",
@@ -418,7 +393,7 @@ const defaultPackages = [
 },
 {
     category:"veg",
-    name:"Veg Menu 18",
+    name:"Veg Menu 17",
     price:"₹256 / Person",
     items:[
         "Paneer Biryani",
@@ -446,7 +421,7 @@ const defaultPackages = [
 },
 {
     category:"veg",
-    name:"Veg Menu 19",
+    name:"Veg Menu 18",
     price:"₹330 / Person",
     items:[
         "Mushroom Biryani",
@@ -480,7 +455,7 @@ const defaultPackages = [
 },
 {
     category:"veg",
-    name:"Veg Menu 20",
+    name:"Veg Menu 19",
     price:"₹415 / Person",
     items:[
         "Mushroom Biryani",
